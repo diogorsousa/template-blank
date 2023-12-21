@@ -8,8 +8,8 @@ This is a public template to scaffold some basics on a new Github repo such as:
 # Your Project Name
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo.svg)](https://github.com/yourusername/your-repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo.svg)](https://github.com/yourusername/your-repo/network)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo.svg)](https://github.com/diogorsousa/template-blank/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo.svg)](https://github.com/diogorsousa/template-blank/network)
 
 ## Overview
 
